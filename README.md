@@ -1,0 +1,2 @@
+# DchaTouchTemplate
+Dチャ端末側テンプレート系資産管理用リポジトリ
